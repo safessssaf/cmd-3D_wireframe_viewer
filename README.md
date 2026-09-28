@@ -9,12 +9,21 @@ Anything like normal data will brick the program.
 might add support later but probably won't
 
 CONTROLS:
-arrows -> movement
-O ->  spawning  mode
-H -> view plane before drawing 
-Space -> spawning plane
-R_F -> up and down camera rotation 
-D-G -> 
-J-K ->  wireframe left to right rotation
-L-< -> wireframe up and down rotation
-N-M -> wireframe roll rotation
+arrows -> Movement.
+O ->  Spawning mode.
+H -> view plane before drawing.
+Space -> spawning plane.
+R_F -> up and down camera rotation.
+D-G -> right and left camera rotation.
+J-K ->  wire-frame left to right rotation.
+L-< -> wire-frame up and down rotation.
+N-M -> wire-frame roll rotation.
+
+SCREENSHOTS:
+
+
+<img width="979" height="1040" alt="image" src="https://github.com/user-attachments/assets/0c2b43c6-6506-4f72-97a1-d8b4249950bc" />
+
+<img width="926" height="947" alt="image" src="https://github.com/user-attachments/assets/4d4ef760-c3a2-4c68-b0f4-d89f0eed060e" />
+
+
