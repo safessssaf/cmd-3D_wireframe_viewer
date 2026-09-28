@@ -8,15 +8,24 @@ Anything like normal data will brick the program.
 
 might add support later but probably won't
 
+Make sure to set the terminal size to 120x80
 CONTROLS:
 arrows -> Movement.
+
 O ->  Spawning mode.
+
 H -> view plane before drawing.
+
 Space -> spawning plane.
+
 R_F -> up and down camera rotation.
+
 D-G -> right and left camera rotation.
+
 J-K ->  wire-frame left to right rotation.
+
 L-< -> wire-frame up and down rotation.
+
 N-M -> wire-frame roll rotation.
 
 SCREENSHOTS:
